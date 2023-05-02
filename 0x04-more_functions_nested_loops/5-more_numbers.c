@@ -13,7 +13,7 @@ void more_numbers(void)
 		{
 			if (Num >= 10)
 				_putchar((Num / 10) + 48);
-			_putchar((Number % 10) + 48);
+			_putchar((Num % 10) + 48);
 		}
 		_putchar('\n');
 }
