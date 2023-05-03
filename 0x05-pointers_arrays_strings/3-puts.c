@@ -2,7 +2,6 @@
 /**
  * _puts - print string to stdout
  * @str: string
- * Return: 0
  */
 void _puts(char *str)
 {
